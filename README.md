@@ -1,11 +1,11 @@
 # Aplicación clima consola
 
-## API KEY
+### API KEY
 
 Las APIKEY de open weather y map box hay que agregarlas en el 
 archivo example.env y renombrarlo a .env
 
-## Ejecutar
+### Ejecutar
 
 Para ejecutar se utiliza 
 
